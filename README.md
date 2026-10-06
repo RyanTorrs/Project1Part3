@@ -1,7 +1,7 @@
 #GROUP 2:
-Bhushan Nakhate
-Santos Soto
-Ryan Torres
+##Bhushan Nakhate
+##Santos Soto
+##Ryan Torres
 
 
 # React + Vite
